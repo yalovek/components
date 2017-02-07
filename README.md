@@ -1,1 +1,2 @@
-# Yalo Components
+# components
+Components library
